@@ -16,27 +16,29 @@ We will decommission the environments provided to you by Google a few hours afte
 
 Follow this [document](https://github.com/fhirschmann/bootkon-h2-2024/blob/main/labs/Use%20Case%20Description.pdf)
 
-## Hands-on Lab 1: Setup your environment: Notebooks & IAM
+### Hands-on Lab 1: Setup your environment: Notebooks & IAM
 
 Follow Step by Step Instructions [here](https://github.com/fhirschmann/bootkon-h2-2024/blob/main/labs/Lab%201%20-%20Setup%20your%20environment.pdf)
 
-## Hands-on Lab 2: Data Ingestion with BigLake
+### Hands-on Lab 2: Data Ingestion with BigLake
 
 Follow Step by Step Instructions [here](https://github.com/fhirschmann/bootkon-h2-2024/blob/main/labs/Lab%202%20-%20Data%20Ingestion.pdf)
 
-## Hands-on Lab 3: BigQuery, Dataform, BQ ML
+### Hands-on Lab 3: BigQuery, Dataform, BQ ML
 
 Follow Step by Step Instructions [here](https://github.com/fhirschmann/bootkon-h2-2024/blob/main/labs/Lab%203%20-%20ELT%20%26%20Lakehouse%20-%20BigQuery%2C%20Dataform%2C%20LLM%20for%20sentiment%20analysis.pdf)
 
-## Hands-on Lab 4: ML Operations with Vertex AI
+### Hands-on Lab 4: ML Operations with Vertex AI
 
 ***Note: You can start Hands-on Lab 5 while the Hands-on Lab 4 training jobs in Notebooks 3 & 4 are still running.***  
 Follow Step by Step Instructions [here](https://github.com/fhirschmann/bootkon-h2-2024/blob/main/labs/Lab%204%20-%20Machine%20Learning%20with%20Vertex%20AI.pdf) 
 
-## Hands-on Lab 5: Agent Builder and Gemini
+### Hands-on Lab 5: Agent Builder and Gemini
 
 Follow Step by Step Instructions [here](https://github.com/fhirschmann/bootkon-h2-2024/blob/main/labs/Lab%205%20-%20Agent%20Builder%20and%20Gemini.pdf)
 
+
+## Useful Links
 
 * *Google Cloud Data Analytics in 10 minutes*  
   [*https://www.youtube.com/watch?v=g-f\_mWXK9sU*](https://www.youtube.com/watch?v=g-f_mWXK9sU)   
