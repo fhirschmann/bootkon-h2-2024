@@ -14,26 +14,26 @@ We will decommission the environments provided to you by Google a few hours afte
 
 ## Understand the Fraudfix Use Case
 
-Follow this [document](Use Case Description.pdf)
+Follow this [document](https://github.com/fhirschmann/bootkon-h2-2024/blob/main/labs/Lab%201%20-%20Setup%20your%20environment.pdf)
 
 ## \[Hands-on Lab \- 1\] Setup your environment: Notebooks & IAM
 
 Follow Step by Step Instructions [here](Lab 1 - Setup your environment.pdf)
 
-## **\[Hands-on Lab \- 2\] Data Ingestion with BigLake
+## \[Hands-on Lab \- 2\] Data Ingestion with BigLake
 
 Follow Step by Step Instructions [here](Lab 2 - Data Ingestion.pdf)
 
-## **\[Hands-on Lab \- 3\] BigQuery, Dataform, BQ ML
+## \[Hands-on Lab \- 3\] BigQuery, Dataform, BQ ML
 
 Follow Step by Step Instructions [here](Lab 3 - ELT & Lakehouse - BigQuery, Dataform, LLM for sentiment analysis.pdf Use Case Description.pdf)
 
-## **\[Hands-on Lab \- 4\] ML Operations with Vertex AI
+## \[Hands-on Lab \- 4\] ML Operations with Vertex AI
 
 ***Note: You can start Hands-on Lab 5 while the Hands-on Lab 4 training jobs in Notebooks 3 & 4 are still running.***  
 Follow Step by Step Instructions [here](Lab 4 - Machine Learning with Vertex AI.pdf) 
 
-## **\[Hands-on Lab \- 5\] Agent Builder and Gemini
+## \[Hands-on Lab \- 5\] Agent Builder and Gemini
 
 Follow Step by Step Instructions [here](Lab 5 - Agent Builder and Gemini.pdf)
 
